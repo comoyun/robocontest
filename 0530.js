@@ -1,1 +1,2 @@
+/* ahmoqona masala */
 console.log('=');

@@ -27,3 +27,5 @@ for (let i = 0; i < penalties.length; i++) {
 }
 
 console.log(accepted ? penalty : 0);
+
+/* kod yozishdan ham masalani shartini tushunishga ko'proq vaqt ketdi lol */
