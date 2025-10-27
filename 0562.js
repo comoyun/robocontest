@@ -7,7 +7,7 @@ const stones = lines[1].split(' ').map(Number);
 /* 
 
 toshlarni kamayish tartibida sortirovka qilsak kamida nechta bola
-tosh terishini ey yo'ge olib kelishini topamiz
+tosh terishini ey yo'ge olib kelishini topamiz. basic greedy problem ;)
 
 */
 
