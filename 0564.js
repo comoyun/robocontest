@@ -21,7 +21,8 @@ console.log(natija);
 
 /*
 
-geniy solution do'stimdan:
+
+O(1) geniy solution (do'stimdan):
 
 if (Math.floor(k / n) === t || (k % n !== 0 && Math.floor(k / n) + 1 === t))
     console.log(1);
