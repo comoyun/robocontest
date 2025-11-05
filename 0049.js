@@ -27,3 +27,24 @@ const isFine = n => {
 for (let i = 0; i < n; i++) isFine(nums[i]) && (result[i] = 1);
 
 console.log(result.join(''));
+
+/*
+
+zo'r yechim:
+
+const fs = require('fs');
+const nums = fs
+    .readFileSync(0, 'utf8')
+    .trim()
+    .split('\n')[1]
+    .split(' ')
+    .map(Number);
+
+const result = nums.map(n => {
+    if (n === 0) return 1;
+    const sq = Math.sqrt(1 + 8 * n);
+    return Number.isInteger(sq) ? 1 : 0;
+});
+
+console.log(result.join(''));
+*/
