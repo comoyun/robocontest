@@ -13,4 +13,3 @@ let c = (n - 2n) % MOD;
 
 console.log(((a * b * c) % MOD).toString());
 
-// islombekka rahmat :)
