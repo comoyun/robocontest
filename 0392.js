@@ -1,3 +1,7 @@
+// eng katta EKUB doim N/2 dan hosil bo'ladi.
+// chunki ikkala son ham biror k ga bo'linishi kerak,
+// va maksimal bo'luvchi N/2 bo'ladi.
+
 const fs = require('fs');
 const lines = fs.readFileSync(0, 'utf8').trim().split('\n');
 
