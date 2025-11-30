@@ -1,2 +1,2 @@
-2
-Xabarni_shifrlab_nima_qilar_eding_Sezar
+5
+3 3 2 1 3
