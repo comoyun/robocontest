@@ -23,21 +23,21 @@ console.log(arr.length - max);
 
 /*
 
-   yechimni hashmapsiz boshqa usullar bilan ham yozib ko'ring
-   masalan saralash orqali yoki boshqa biron narsa (1 <= N <= 100)
-   nobrainerlik qilib buni yozib jo'natsak-a? baribir 
+yechimni hashmapsiz boshqa usullar bilan ham yozib ko'ring
+masalan saralash orqali yoki boshqa biron narsa (1 <= N <= 100)
+nobrainerlik qilib buni yozib jo'natsak-a? 
 
-   let max = 0;
-   for (let i = 1; i <= 100; i++) {
-       let count = 0;
-       for (const num of arr) {
-           if (i === num) count++;
-       }
-       max = Math.max(count, max);
+let max = 0;
+for (let i = 1; i <= 100; i++) {
+   let count = 0;
+   for (const num of arr) {
+       if (i === num) count++;
    }
-   console.log(arr.length - max);
+   max = Math.max(count, max);
+}
+console.log(arr.length - max);
 
-   O(n * 100) -- constantlarni olib tashlaymizda baribir O(n)
-   bo'ladi 
+O(n * 100) -- constantlarni olib tashlaymizda baribir O(n)
+bo'ladi 
 
 */
