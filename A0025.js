@@ -18,4 +18,5 @@ const binarySearch = (arr, target) => {
     return left;
 };
 
-for (let i = 3; i < lines.length; i++) console.log(binarySearch(people, +lines[i]));
+for (let i = 3; i < lines.length; i++)
+    console.log(binarySearch(people, +lines[i]));
