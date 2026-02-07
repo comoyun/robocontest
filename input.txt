@@ -1,3 +1,4 @@
-Salom, ona, onajonginam,
-Yana sizga yozmoqdaman xat.
-.
+3
+1 2
+2 4
+3 7
