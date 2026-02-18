@@ -1,3 +1,6 @@
+// 7% masalani yecha olmayapman, dumbul ekanman 
+// deb yurganlarga bir daqiqa sukut...
+
 // afsuski, javascript solution o'tmaydi
 // buni cppga o'girib tashlash kerak
 const fs = require('fs');
