@@ -1,3 +1,6 @@
+// doimgidek, robocontest bu yechimni readline orqali
+// yozilgan versiyasini ham qabul qilmadi, cppga o'girib 
+// tashlang bo'lmasa MLE xatolik beradi
 const fs = require('fs');
 const lines = fs.readFileSync(0, 'utf8').trim().split('\n');
 
