@@ -1,3 +1,9 @@
+// bitta test caseni tekshirmayapti)
+// bundan avvalgi yozgan yechimimda xato bor edi, 
+// ya'ni "BAC" kabi testlarga YES qaytaradi.
+// robocontestda ACC bo'ldi ketdi lekin) 
+
+// mayli to'g'ri solutionni yozib qo'yaveray)
 const fs = require('fs');
 const str = fs.readFileSync(0, 'utf8').trim();
 
