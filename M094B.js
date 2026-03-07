@@ -5,6 +5,8 @@ const digits = str.split('').map(Number);
 const used = new Array(digits.length).fill(false);
 let result = Infinity;
 
+// I know i shouldn've done this
+// but i dont want to think now
 const generate = (res = []) => {
     if (res.length === used.length) {
         const newN = +res.join('');
