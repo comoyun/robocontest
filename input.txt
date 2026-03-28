@@ -1,1 +1,4 @@
-109
+3
+abcca
+ca
+cccca
