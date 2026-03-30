@@ -1,4 +1,6 @@
-3
-abcca
-ca
-cccca
+5
+R S
+L K
+K R
+P P
+L S
