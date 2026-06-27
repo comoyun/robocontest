@@ -1,1 +1,17 @@
-12
+1 1 1
+1 1 1
+1 1 1
+
+a b c
+d e f
+
+a + d, a + e, a + f
+b + d, b + e, b + f
+c + d, c + e, c + f
+
+a + d - (b + d) = big or small: a, b
+b + d - (c + d) = big or small: b, c
+
+
+
+
